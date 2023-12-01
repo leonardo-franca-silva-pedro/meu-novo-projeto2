@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("../imagens/logodkt.jpg");
+    background-position: 50% 70% ;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+input{
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 35px;
+    border: 1px solid black;
+    font-size: 16pt;
+    padding: 10px 20px;
+    color: rgb(3, 51, 7);
+}
+
+form
+{
+    width: 420px;
+    margin: 150px auto 0px auto;
+   <!-- background-color: rgb(161, 161, 241);--!>
+    
+}
